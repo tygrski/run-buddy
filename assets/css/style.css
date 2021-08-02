@@ -31,11 +31,13 @@ header nav ul li a {
     font-weight:lighter;
     font-size: 22px;
 }
+/*Apples styles to entire HTML*/
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
+/*Appliies styles to footer*/
 footer{
     background: #fce138;
     width: 100%;
